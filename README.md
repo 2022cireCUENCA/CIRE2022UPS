@@ -9,4 +9,4 @@ Además se adjunta un enlace a un video extra de YouTube donde se presenta la si
 
 https://www.youtube.com/watch?v=zuaVFj8CCik
 
-Dentro de la carpeta sources se encuentran los codigos fuente realizados para completar la evaluación, en donde "meta_etapa2_UPSCuenca.py" es el nodo que se debe ejecutar para el funcionamiento del robot, mientras que el archivo "utils_evasion.py" es una función con la cual se adquieren los datos del sensor Lidar.
+Dentro de la carpeta sources se encuentran los códigos fuente realizados para completar la evaluación, en donde "meta_etapa2_UPSCuenca.py" es el nodo que se debe ejecutar para el funcionamiento del robot, mientras que el archivo "utils_evasion.py" es una función con la cual se adquieren los datos del sensor Lidar.
